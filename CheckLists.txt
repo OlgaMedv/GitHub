@@ -1,0 +1,15 @@
+☑ The site is open and available.
+☑ When you try to reopen the site, it opens and is available.
+☑ All buttons on the site are clickable.
+☑ All links on the site open.
+☑ There are no broken links on the site.
+☑ Check all forms on the site.
+☑ Check the validation of all required fields.
+☑ All required fields have an asterisk.
+☑ Check validation for all optional fields.
+☑ Check the main elements of the site.
+☑ Check the operation of the menu.
+☑ Check that the downloaded documents open correctly.
+☑ Sending forms works correctly.
+☑ Check what happens if you delete cookies while on the site.
+☑ Check what happens if you delete cookies after visiting the site.
